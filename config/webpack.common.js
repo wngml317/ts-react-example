@@ -15,10 +15,6 @@ module.exports = {
                 use: ["babel-loader", "ts-loader"],
                 exclude: /node_modules/,
             },
-            // {
-            //     test: /\.(jpg|png|gif|svg)$/,
-            //     use: ["file-loader"],
-            // },
             {
                 test: /\.css$/, 
                 use: ['style-loader', 'css-loader'], 
