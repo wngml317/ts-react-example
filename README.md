@@ -13,3 +13,10 @@ $ npm run dev
 $ npm run build
 $ npm run start
 ```
+
+## env 파일 생성
+```
+- DB_URL
+- DB_NAME
+- PORT
+```
