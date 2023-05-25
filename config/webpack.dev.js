@@ -12,8 +12,8 @@ module.exports = merge(common, {
             "/api": {
                 target: "http://localhost:8888",
                 changeOrigin: true,
-                // pathRewrite: {"/api": "/"}, // /api에 해당하는 url을 없애기, ex) http://localhost:8080/rest/myInfo
             }
-        }
+        },
+        
     },
 });
