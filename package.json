@@ -47,7 +47,6 @@
     "@types/react-dom": "^18.2.4",
     "@types/styled-components": "^5.1.26",
     "babel-loader": "^9.1.2",
-    "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.4",
     "html-webpack-plugin": "^5.5.1",
